@@ -106,4 +106,6 @@ Praticar os principais pilares da Programação Orientada a Objetos por meio da 
 
 ## 👨‍💻 Autor
 
+https://github.com/ThainaSouza-design
+
 Atividade desenvolvida como prática de **Programação Orientada a Objetos (POO) em JavaScript**, com foco no aprendizado de conceitos fundamentais da linguagem e na aplicação de boas práticas de desenvolvimento.
